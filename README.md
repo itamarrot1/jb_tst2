@@ -19,7 +19,10 @@ This Python application provides functionality to work with geometric shapes, sp
 
    To clone the repository, open your terminal and run:
 
-   ```bash
+   bash
    git clone https://github.com/itamarrot1/jb_tst2.git
-To run the application and execute all tests, use the following command:
-python main.py
+   To run the application and execute all tests, use the following command:
+   python main.py
+   This will run all unit tests defined in the test directory and provide a summary of which tests passed and which failed.
+
+   You can also directly use the functions defined in the modules by importing them into your own scripts
