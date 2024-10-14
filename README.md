@@ -15,9 +15,11 @@ This Python application provides functionality to work with geometric shapes, sp
 
 ## Installation
 
-1. **Clone the Repository**
+ **Clone the Repository**
 
    To clone the repository, open your terminal and run:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/itamarrot1/jb_tst2.git
+To run the application and execute all tests, use the following command:
+python main.py
